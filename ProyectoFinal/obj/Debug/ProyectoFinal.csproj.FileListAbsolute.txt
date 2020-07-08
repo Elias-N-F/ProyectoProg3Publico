@@ -1,0 +1,30 @@
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\bin\Debug\aa\ProyectoFinal.resources.dll
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\obj\Debug\aa\ProyectoFinal.resources.dll
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.F_Principal.resources
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.F_Juego.resources
+Z:\Documentos\Edgardo\UTN\Programacion III\2020\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.F_Principal.aa.resources
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\bin\Debug\aa\ProyectoFinal.resources.dll
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.F_ClienteJuego.resources
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.F_HostJuego.resources
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.F_IAJuego.resources
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.F_Principal.resources
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.F_Principal.aa.resources
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\aa\ProyectoFinal.resources.dll
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Usuario\source\repos\ProyectoFinalProgIII2020\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
